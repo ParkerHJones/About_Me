@@ -1,0 +1,25 @@
+#nav {
+    list-style: none;
+}
+
+#nav li {
+    display: inline-block;
+    padding: 30px;
+    background-color: pink;
+}
+
+.center {
+    text-align: center;
+}
+
+p {
+    color: black;
+}
+
+h1 {
+    font-size: 30em;
+}
+
+h2 {
+    font-size: 12.4em;
+}
